@@ -1,3 +1,5 @@
+This project is a part of Masters program assignment on Deep Neural Networks
+
 # Sentiment Analysis using LSTM on IMDB Dataset
 
 This project implements a sentiment analysis model using a Long Short-Term Memory (LSTM) neural network. The model is trained on the IMDB movie reviews dataset to classify the sentiment of movie reviews as either positive or negative.
